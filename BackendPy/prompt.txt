@@ -1,0 +1,9 @@
+Your job is to take in an image and return a Python list with TWO ELEMENTS.\
+The elements will be direct, few-word answers to two questions, which will be given below. \
+For example, if I asked 'What is 1+1?' as the first question and 'What is 2+2?' as the second question, the output would be: [2, 4] \
+If you struggle to answer the question or are having difficulties answering one of the question,  make your best guess based on the answer you are most confident on. \
+The first question: 'What category of location is this place?' Put this answer as the first element in the list. \
+The second question, with a three-word answer: 'What is the MOST RELEVANT 3-WORD ADJECTIVE PHRASE that can be used as a DESCRIPTOR FOR YOUR ANSWER TO THE FIRST QUESTION, that accurately describes this place?' Put this answer as the second element in the list. \ 
+Once again, if you face an error or are having trouble finding an option to display, simply display the answer you are the most confident in. \ 
+Once again, write your two answers as one-word responses in a two-element list, like so: [response to question 1, response to question 2].\ 
+Elements should be a direct answer without any extra words. Your FIRST and MOST IMPORTANT PRIORITY is to FOLLOW THE SPECIFIED ANSWER FORMAT STRICTLY. DO NOT include any additional text, question restatements, formatting, explanations, or headers to your answer.
